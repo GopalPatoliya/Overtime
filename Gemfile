@@ -32,3 +32,4 @@ group :test do
 end
 
 gem 'devise', '~> 4.8', '>= 4.8.1'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
